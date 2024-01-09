@@ -5,7 +5,9 @@
 
 - 👯 I’m looking to collaborate on **Machine Learning projects.**
 
-- 📫 How to reach me **mohamedtahasta@gmail.com**
+- 📫 Reach me via: **mohamedtahasta@gmail.com**
+
+- 📝 I regularly write **articles and detailed READme files on here throughly explaining every detail.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
