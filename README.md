@@ -20,5 +20,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=i-asked-for-this&show_icons=true&theme=dracula&title_color=955cff&text_color=ffffff&hide_border=true&locale=en&layout=compact" alt="i-asked-for-this" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=i-asked-for-this&show_icons=true&theme=dracula&title_color=955cff&text_color=ffffff&hide_border=true&locale=en" alt="i-asked-for-this" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=i-asked-for-this&theme=highcontrast" alt="i-asked-for-this" /></p>
