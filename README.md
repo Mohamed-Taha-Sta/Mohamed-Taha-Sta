@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **my web capabilities.**
 
-- 👯 I’m looking to collaborate on **Machine Learning projects.**
+- 🙌 I’m looking to collaborate on **Machine Learning projects.**
 
 - 📫 How to reach me **mohamedtahasta@gmail.com**
 
