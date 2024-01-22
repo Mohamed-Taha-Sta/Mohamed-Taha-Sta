@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **my web capabilities.**
 
-- 🙌 I’m looking to collaborate on **Machine Learning projects.**
+- 🙌 I’m looking to collaborate on **Machine Learning projects.** as well as **Fullstack Web Solutions.**
 
-- 📫 How to reach me **mohamedtahasta@gmail.com**
+- 📫 Reach out via email: **mohamedtahasta@gmail.com**
 
 - 📝 I make sure to provide **detailed README files on here throughly explaining every detail.**
 
