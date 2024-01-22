@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **my web capabilities.**
 
-- 🙌 I’m looking to collaborate on **Machine Learning projects.** as well as **Fullstack Web Solutions.**
+- 🙌 I’m looking to collaborate on **Machine Learning projects**, as well as, **Fullstack Web Solutions.**
 
 - 📫 Reach out via email: **mohamedtahasta@gmail.com**
 
