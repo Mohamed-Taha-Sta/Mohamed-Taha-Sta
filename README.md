@@ -1,5 +1,5 @@
-<h1 align="center">Hey👋</h1>
-<h3 align="center">A Software Engineering student with a passion for data and web development.</h3>
+<h1 align="center">Hey there👋, my name is Taha,</h1>
+<h3 align="center">I'm a Software Engineering student with a passion for data and web development.</h3>
 
 - 📫 Reach out via email: **[mohamedtahasta@gmail.com](mailto:mohamedtahasta@gmail.com)**
 
