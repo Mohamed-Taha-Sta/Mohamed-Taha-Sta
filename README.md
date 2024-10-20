@@ -14,7 +14,7 @@ I'm Taha, a 4th-year Software Engineering student with a passion for building sc
 Feel free to reach out to me at  for any collaboration or inquiries.
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mohamed-taha-sta/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-taha-sta/) 
 
 # 💻 Tech Stack:
 
