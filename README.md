@@ -56,6 +56,9 @@ Feel free to reach out to me at  for any collaboration or inquiries.
 
 ## 📜 Certifications:
 
+- **[AWS Cloud Technical Essentials - AWS](https://www.coursera.org/account/accomplishments/verify/88DVBMB0YT47) (Jan 2025)**  
+  Skills: Cloud Computing, AWS Core Services (EC2, S3, IAM, VPC, Lambda..), Cloud Security, Scalability, Cost Management
+
 - **[Introduction to Computer Vision and Image Processing - IBM](https://www.coursera.org/account/accomplishments/verify/C2BWBMSYURUK) (Jul 2024)**  
   Skills: Convolutional Neural Networks (CNN), OpenCV, Computer Vision, Deep Learning, PIL
 
