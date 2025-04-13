@@ -1,6 +1,16 @@
 <h1 align="center">Hey there👋, my name is Taha,</h1>
 <h3 align="center">I'm a Software Engineering student with a passion for data and web development.</h3>
 
+<p align="center">
+  <a href="https://med-taha.vercel.app/" target="_blank">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%23FF8343?style=for-the-badge&logo=Firefox&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/mohamed-taha-sta/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+
 - 📫 Reach out via email: **[mohamedtahasta@gmail.com](mailto:mohamedtahasta@gmail.com)**
 
 - 🔭 I’m currently looking to collaborate on **Machine Learning projects**, as well as, **Fullstack Web Solutions.**
