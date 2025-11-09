@@ -18,7 +18,7 @@
 - 📝 I'm also open to contributing to open-source projects.
 
 # 💫 About Me:
-I'm Taha, a 4th-year Software Engineering student with a passion for building scalable solutions and services. I focus on creating impactful and efficient systems that solve real-world problems. I'm always open to contributing to open-source projects, especially those related to distributed systems, where I can learn and collaborate with others.<br><br>I'm also actively exploring data analysis and machine learning, working on various projects and pursuing certifications to deepen my expertise.
+I'm Taha, a 5th-year Software Engineering student with a passion for building scalable solutions and services. I focus on creating impactful and efficient systems that solve real-world problems. I'm always open to contributing to open-source projects, especially those related to distributed systems, where I can learn and collaborate with others.<br><br>I'm also actively exploring data analysis and machine learning, working on various projects and pursuing certifications to deepen my expertise.
 
 ## 📧 Reach out via email:
 Feel free to reach out to me at  for any collaboration or inquiries.
