@@ -2,7 +2,7 @@
 <h3 align="center">I'm a Software Engineering student with a passion for data and web development.</h3>
 
 <p align="center">
-  <a href="https://med-taha.vercel.app/" target="_blank">
+  <a href="https://med-taha.me/" target="_blank">
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%23FF8343?style=for-the-badge&logo=Firefox&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/mohamed-taha-sta/" target="_blank">
